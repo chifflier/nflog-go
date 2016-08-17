@@ -3,8 +3,8 @@ package main
 import (
     "encoding/hex"
     "fmt"
-    //"github.com/chifflier/nflog-go/nflog"
-    "nflog-go/nflog"
+    "github.com/chifflier/nflog-go/nflog"
+    //"nflog-go/nflog"
     "os"
     "os/signal"
     "syscall"
